@@ -4,7 +4,7 @@ import logoDoces from './assets/Doces_Gaby_em_Rosa_Glossy-removebg-preview.png'
 import coracao1 from './assets/coracao1.png'
 import coracao2 from './assets/coracao2.png'
 import './App.css'
-import { FaArrowRight, FaCalendar, FaHeart, FaHouse, FaUtensils } from 'react-icons/fa6'
+import { FaCalendar, FaHeart, FaUtensils } from 'react-icons/fa6'
 import { db } from "./services/firebase"
 import { collection, getDocs, doc, updateDoc, increment, addDoc } from 'firebase/firestore'
 import Swal from 'sweetalert2'
