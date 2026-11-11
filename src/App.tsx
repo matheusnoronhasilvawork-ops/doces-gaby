@@ -178,7 +178,7 @@ function App() {
               </div>
               <section className='flex flex-col px-5 py-4'>
                 <div className='w-full flex items-center justify-center p-2 bg-red-500 rounded-lg'>
-                  <span className="text-white font-bold text-lg">Desconto por tempo limitado: Todas por R$4</span>
+                  <span className="text-white font-bold text-md">Desconto por tempo limitado: Todas por R$4</span>
                 </div>
                 <div className='flex flex-row justify-between w-full'>
                   <div className='flex flow items-center gap-2'>
