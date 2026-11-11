@@ -177,6 +177,9 @@ function App() {
                 <img className='absolute h-12 w-12 left-9 top-29' src={coracao2} alt="" />
               </div>
               <section className='flex flex-col px-5 py-4'>
+                <div className='w-full flex items-center justify-center p-2 bg-red-500 rounded-lg'>
+                  <span className="text-white font-bold text-lg">Desconto por tempo limitado: Todas por R$4</span>
+                </div>
                 <div className='flex flex-row justify-between w-full'>
                   <div className='flex flow items-center gap-2'>
                     <FaCalendar color='pink' />
